@@ -94,7 +94,6 @@ def read_proxy():
         #     srver.join(1)
         #     os.remove('.carddeck')
         #     return carddeck
-        time.sleep(1)
 
 if __name__ == '__main__':
     logging = maclient_logging.Logging('logging')
